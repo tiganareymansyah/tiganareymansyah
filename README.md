@@ -1,3 +1,10 @@
+<div id="header" align="center">
+ <!-- 
+  <img src="https://pin.it/7uMI8vxx0" width="250"/>
+  -->
+    <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="auto"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Tigana Reymansyah</h1>
 <h3 align="center">Fullstack Developer</h3>
 
