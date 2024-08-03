@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<!--   <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="250"/> -->
-  <svg class="f0hiXs2f fzd7Ejl_" tabindex="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.1 16" role="img" aria-label="Play"><path d="M14.5 8.9l-13 7c-.1.1-.3.1-.5.1s-.4 0-.5-.1c-.3-.2-.5-.5-.5-.9V1C0 .6.2.3.5.1c.3-.2.7-.2 1 0l13 7c.3.2.5.5.5.9.1.4-.1.7-.5.9"></path></svg>
+  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="250"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Tigana Reymansyah</h1>
