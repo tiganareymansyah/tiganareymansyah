@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://pin.it/7uMI8vxx0" width="auto"/>
+  <img src="https://media1.giphy.com/media/l6JNjLQZdk9CnUOq9f/giphy.gif?cid=6c09b952d9kjh2havbrq5iudugdj8m7hxuwlwrffox9dx4r3&ep=v1_stickers_related&rid=giphy.gif&ct=ts" width="250"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Tigana Reymansyah</h1>
